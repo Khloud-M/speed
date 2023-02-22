@@ -1,0 +1,15 @@
+:root{
+   --theme_main_bg_clr: #fbf9f4;
+   --background:#F7F5EF;
+   --main_theme_clr: #313131;
+   --p_color:#958A7E;
+    --form_content_bg_clr: #fff;
+    --footer_bg_clr: #43290A;
+    --theme_text_clr: #313131;
+    --theme_secondary_text_clr: #a8b1c1;
+    --blurred_clr: hsla(0,0%,100%,0.6);
+    --simple_shadow_clr: hsla(0,0%,88.2%,0.3);
+    --mid_shadow_clr: hsla(0,0%,88.2%,0.6);
+    --border_clr: #f3f3f3;
+ 
+}
